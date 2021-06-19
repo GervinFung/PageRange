@@ -1,3 +1,3 @@
-###Sample Output
+### Sample Output
 
 ![Sample Output](sampleOutput.jpg)
